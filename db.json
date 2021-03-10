@@ -1,0 +1,12 @@
+{
+  "establishments": [
+    {
+      "id": 1,
+      "name": "Taverna do Erick"
+    },
+    {
+      "id": 2,
+      "name": "Pastelaria Angular"
+    }
+  ]
+}
